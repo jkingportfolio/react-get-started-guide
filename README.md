@@ -1,4 +1,4 @@
-# Comprehensive Guide: React.js Frontend with Three.js
+# Comprehensive Guide: React.js Frontend with Three.js [![My Skills](https://skillicons.dev/icons?i=react,threejs&theme=dark)](https://skillicons.dev)
 
 This comprehensive guide is designed to help developers set up a web development environment for building dynamic 3D web applications using React.js and Three.js. Whether you're starting a new project or looking to integrate a powerful frontend with 3D graphics, this guide covers all the necessary steps, from environment setup to creating engaging web applications with ease.
 
